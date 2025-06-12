@@ -51,5 +51,3 @@ def traffic_light(command):
         car_green()
     elif command == 'walk':
         pedestrian_green()
-
-        penis

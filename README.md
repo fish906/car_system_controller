@@ -2,7 +2,6 @@
 
 This project provides a software suite for controlling the Faller Car System, enabling complex and realistic traffic operations.
 
----
 
 ## Core Concepts
 
@@ -12,7 +11,6 @@ The system is built on a client-server architecture:
 * **Microcontrollers:** Affordable **ESP32** microcontrollers are used to control the physical components of the car system, such as traffic lights, roadway magnets, and other actuators.
 * **Communication:** The **MQTT** protocol is used for lightweight and efficient messaging between the central server and the ESP32 clients.
 
----
 
 ## Features
 
@@ -20,7 +18,6 @@ The system is built on a client-server architecture:
 * **Modular Hardware Control:** Easily expand the system by adding more ESP32-controlled elements.
 * **Real-time Communication:** Low-latency communication ensures responsive and synchronized system behavior.
 
----
 
 ## Getting Started
 
@@ -33,13 +30,11 @@ To get started with this project, you will need:
 
 (Further setup and installation instructions will be added here.)
 
----
 
 ## Contributing 🤝
 
 Contributions to this project are welcome! Please feel free to fork the repository, make your changes, and submit a pull request.
 
----
 
 ## License
 
